@@ -1,3 +1,3 @@
 # demoFile
 I am revising Git and Github.
-Author - Lalit Kumar.
+Author - Lalit Kumar (lucky).
